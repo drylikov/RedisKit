@@ -1,0 +1,26 @@
+
+{
+  "name": "rediskit",
+  "version": "0.0.4",
+  "description": "Redis backed data structures",
+  "keywords": [
+    "redis",
+    "queue"
+  ],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {
+    "redis": "^0.12.1"
+  },
+  "files": [
+    "lib", "Readme.md", "index.js", "package.json"
+  ],
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^6.0.3"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/rediskit.git"
+  }
+}
