@@ -37,5 +37,3 @@
     $ npm install
     $ redis-server
     $ make test
-
-
